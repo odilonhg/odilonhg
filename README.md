@@ -10,6 +10,12 @@ I enjoy building **websites, mobile apps, and useful tools** while exploring new
 - 🐍 Learning and improving my programming skills
 - 💡 Always working on new ideas and personal projects
 
+### Contact Me
+
+Feel free to reach out if you have any questions, ideas, or just want to connect!
+
+📧 **Email:** [dmesnage.hg@gmail.com](mailto:dmesnage.hg@gmail.com)
+
 ### Tech Stack
 
 #### 💻 Programming Languages
